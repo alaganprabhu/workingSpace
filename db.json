@@ -13,7 +13,7 @@
         "title": "Honeykomb",
         "location": "HSR Sector 6, Service Road",
         "locationValue": "6",
-        "image": "/images/honeykomb.svg",
+        "image": "https://raw.githubusercontent.com/alaganprabhu/workingSpace/main/honeykomb.png",
         "dayPass": "₹ 249/Day",
         "bulkDays": "10",
         "bulkPass": "₹ 2400"
@@ -22,7 +22,7 @@
         "title": "Platinum",
         "location": "HSR Sector 6, 5th main Road",
         "locationValue": "6",
-        "image": "/images/platinum.svg",
+        "image": "https://raw.githubusercontent.com/alaganprabhu/workingSpace/main/platinum.png",
         "dayPass": "₹ 249/Day",
         "bulkPass": "₹ 2400",
         "bulkDays": "10"
@@ -31,7 +31,7 @@
         "title": "Platinum",
         "location": "HSR Sector -2, 27th main Road",
         "locationValue": "6",
-        "image": "/images/workspace2.svg",
+        "image": "https://raw.githubusercontent.com/alaganprabhu/workingSpace/main/wrkspace2.png",
         "dayPass": "₹ 249/Day",
         "bulkPass": "₹ 2400",
         "bulkDays": "10"
@@ -40,7 +40,7 @@
         "title": "Campus",
         "location": "HSR Sector 6, 5th main Road",
         "locationValue": "6",
-        "image": "/images/campus.svg",
+        "image": "https://raw.githubusercontent.com/alaganprabhu/workingSpace/main/campus.png",
         "dayPass": "₹ 249/Day",
         "bulkPass": "₹ 2400",
         "bulkDays": "10"
@@ -50,7 +50,7 @@
         "location": "HSR Sector 6, 5th main Road",
         "locationValue": "6",
         "location_icon": "images/assistant_direction.svg",
-        "image": "/images/premium.svg",
+        "image": "https://raw.githubusercontent.com/alaganprabhu/workingSpace/main/premium.png",
         "dayPass": "₹ 249/Day",
         "bulkPass": "₹ 2400",
         "bulkDays": "10"
