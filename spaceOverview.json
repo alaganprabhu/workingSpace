@@ -1,0 +1,6 @@
+[  {    title: "Workspace",    location: "HSR Sector 6, Service Road",    locationValue: "6",    dayPass: "₹ 249/Day",
+    bulkPass: "₹ 2400",    bulkDays: "10",    image: "/images/workspace.png",  },  {    title: "Honeykomb",    location: "HSR Sector 6, Service Road",    locationValue: "6",    image: "/images/honeykomb.svg",
+    dayPass: "₹ 249/Day",    bulkDays: "10",    bulkPass: "₹ 2400",  },  {    title: "Platinum",    location: "HSR Sector 6, 5th main Road",    locationValue: "6",    image: "/images/platinum.svg",
+    dayPass: "₹ 249/Day",    bulkPass: "₹ 2400",    bulkDays: "10",  },  {    title: "Platinum",    location: "HSR Sector -2, 27th main Road",    locationValue: "6",    image: "/images/workspace2.svg",
+    dayPass: "₹ 249/Day",    bulkPass: "₹ 2400",    bulkDays: "10",  },  {    title: "Campus",    location: "HSR Sector 6, 5th main Road",    locationValue: "6",    image: "/images/campus.svg",
+    dayPass: "₹ 249/Day",    bulkPass: "₹ 2400",    bulkDays: "10",  },  {    title: "Premium",    location: "HSR Sector 6, 5th main Road",    locationValue: "6",    location_icon: "images/assistant_direction.svg",    image: "/images/premium.svg",    dayPass: "₹ 249/Day",    bulkPass: "₹ 2400",    bulkDays: "10",  },]
