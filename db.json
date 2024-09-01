@@ -6,6 +6,7 @@
         "dayPass": "₹ 249/Day",
         "bulkPass": "₹ 2400",
         "bulkDays": "10",
+        "discount":"20%",
         "image": "https://raw.githubusercontent.com/alaganprabhu/workingSpace/main/workspace.png"
 
     },
@@ -16,6 +17,7 @@
         "image": "https://raw.githubusercontent.com/alaganprabhu/workingSpace/main/honeykomb.png",
         "dayPass": "₹ 249/Day",
         "bulkDays": "10",
+        "discount":"20%",
         "bulkPass": "₹ 2400"
     },
     {
@@ -25,6 +27,7 @@
         "image": "https://raw.githubusercontent.com/alaganprabhu/workingSpace/main/platinum.png",
         "dayPass": "₹ 249/Day",
         "bulkPass": "₹ 2400",
+        "discount":"25%",
         "bulkDays": "10"
     },
     {
@@ -34,6 +37,7 @@
         "image": "https://raw.githubusercontent.com/alaganprabhu/workingSpace/main/wrkspace2.png",
         "dayPass": "₹ 249/Day",
         "bulkPass": "₹ 2400",
+        "discount":"15%",
         "bulkDays": "10"
     },
     {
@@ -43,6 +47,7 @@
         "image": "https://raw.githubusercontent.com/alaganprabhu/workingSpace/main/campus.png",
         "dayPass": "₹ 249/Day",
         "bulkPass": "₹ 2400",
+        "discount":"30%",
         "bulkDays": "10"
     },
     {
@@ -53,6 +58,7 @@
         "image": "https://raw.githubusercontent.com/alaganprabhu/workingSpace/main/premium.png",
         "dayPass": "₹ 249/Day",
         "bulkPass": "₹ 2400",
+        "discount":"20%",
         "bulkDays": "10"
     }
 ]
